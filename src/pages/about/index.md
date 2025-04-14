@@ -1,19 +1,30 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: 📌 Tentang Kami – GassCell
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Awal Mula GassCell
+GassCell didirikan dengan semangat sederhana: menyediakan layanan komunikasi yang cepat, mudah, dan terpercaya untuk semua kalangan. Berawal dari kebutuhan masyarakat akan tempat isi pulsa dan paket data yang praktis, kami hadir di tengah-tengah lingkungan untuk menjawab kebutuhan itu dengan pelayanan langsung dan personal.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Layanan Lengkap & Terpercaya
+Kami tidak hanya melayani isi ulang pulsa dan kuota semua operator, tapi juga menyediakan berbagai aksesoris HP berkualitas seperti casing, charger, headset, dan masih banyak lagi. GassCell juga menerima top-up e-wallet, token listrik, hingga voucher game. Semua layanan dilakukan dengan cepat, transparan, dan profesional.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Fokus Kami: Kepuasan Pelanggan
+Di GassCell, pelanggan bukan sekadar pembeli—tapi partner yang kami hargai. Kami selalu berusaha memberikan layanan terbaik, mulai dari komunikasi yang ramah, harga yang jujur, hingga solusi ketika pelanggan mengalami kendala dengan layanan operator atau perangkat mereka. Karena kami percaya, kepuasan pelanggan adalah pondasi utama bisnis kami
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Komitmen Lokal, Semangat Global
+Sebagai konter lokal, GassCell bangga menjadi bagian dari komunitas. Kami aktif mendukung kegiatan warga sekitar dan terus berkembang mengikuti tren dan teknologi terbaru. Meski kami tumbuh dari lingkungan sekitar, kami membawa semangat profesionalisme dan kualitas pelayanan kelas nasional.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Gass Terus Bersama GassCell!
+Nama “GassCell” bukan hanya sekadar nama, tapi cerminan semangat kami: gas terus memberikan yang terbaik, tanpa setengah-setengah. Baik kamu butuh pulsa darurat, beli casing keren, atau sekadar tanya-tanya, GassCell selalu siap melayani. Terima kasih sudah menjadi bagian dari perjalanan kami—yuk, gass terus bareng GassCell!
+
+
+
+
+
+
+
+
+
+
+
