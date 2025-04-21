@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
+import github from "../img/iconwhatsapp.png";
 import logo from "../img/baru1.png";
 
 const Navbar = () => {
@@ -66,7 +66,8 @@ const Navbar = () => {
           <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"
-              href="https://github.com/decaporg/gatsby-plugin-decap-cms"
+              href="https://wa.me/6285179908527?text=Saya%20Ingin%20Membeli%20Produk%20ini
+"
               target="_blank"
               rel="noopener noreferrer"
             >

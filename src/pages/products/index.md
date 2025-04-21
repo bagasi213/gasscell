@@ -11,22 +11,22 @@ description: >-
 
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/pulsa.jpeg
       text: >
         Layanan isi pulsa dan paket data all operator. Cukup sebut nomor & provider,
         langsung masuk dalam hitungan detik! Proses cepat dan harga bersahabat.
     
-    - image: /img/coffee-gear.png
+    - image: /img/cores.jpeg
       text: >
         Aksesoris HP lengkap: casing, charger, headset, tempered glass, kabel data, dan banyak lagi.
         Semua barang ready stock dan bisa langsung dicoba.
 
-    - image: /img/tutorials.png
+    - image: /img/pulsa2.jpeg
       text: >
         Top-up saldo GoPay, OVO, DANA, ShopeePay, token listrik, dan voucher game.
         Transaksi cepat & bukti transfer jelas. Bisa via chat juga!
 
-    - image: /img/meeting-space.png
+    - image: /img/service.jpeg
       text: >
         Layanan service HP ringan & setting software. Dari lupa pola sampai reset ulang, kami bantu dengan cepat dan aman.
   heading: Apa Saja yang Kami Tawarkan?
@@ -40,13 +40,13 @@ main:
     Produk kami dikurasi dengan teliti agar Anda mendapatkan kualitas terbaik dengan harga yang masuk akal.
   image1:
     alt: Ilustrasi pengisian pulsa dan paket data
-    image: /img/products-grid3.jpg
+    image: /img/debit.jpeg
   image2:
     alt: Aksesoris HP lengkap di konter GassCell
-    image: /img/products-grid2.jpg
+    image: /img/qr.jpeg
   image3:
     alt: Proses top-up digital di konter
-    image: /img/products-grid1.jpg
+    image: /img/qr1.jpeg
 testimonials:
   - author: Rizky Wulandari
     quote: >-
@@ -54,7 +54,7 @@ testimonials:
   - author: Dedi Prasetyo
     quote: >-
       Aksesoris HP di GassCell lengkap banget dan harganya bersahabat. Udah langganan dari awal buka.
-full_image: /img/products-full-width.jpg
+full_image: /img/aksesoris.jpeg
 pricing:
   heading: Layanan Utama GassCell
   description: >-

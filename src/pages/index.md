@@ -13,33 +13,18 @@ description: >-
  
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/payment2.jpeg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Kami menjual berbagai macam pulsa, paket data, serta layanan pembayaran digital seperti token listrik dan tagihan bulanan. Semua produk kami berasal dari distributor resmi untuk menjamin keaslian dan kecepatan transaksi. Kami juga menyediakan berbagai metode pembayaran, dari tunai hingga dompet digital. Hubungi kami atau kunjungi konter langsung untuk info terbaru dan promo menarik.
+    - image: /img/online.jpeg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Kami juga menyediakan berbagai aksesoris handphone berkualitas, seperti charger, headset, casing, dan pelindung layar untuk berbagai tipe HP. Tidak peduli apakah Anda baru membeli handphone baru atau ingin memperbarui perlengkapan lama, di konter kami Anda akan menemukan aksesoris yang cocok dan fungsional. Semua produk dipilih dengan teliti untuk kenyamanan dan kepuasan Anda.
+    - image: /img/payment3.jpeg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Suka belanja pulsa atau bayar tagihan, tapi bingung caranya? Tenang, kami siap bantu! Di konter kami, kamu bisa melakukan berbagai transaksi digital—mulai dari isi ulang pulsa, paket data, token listrik, hingga pembayaran e-wallet dan tagihan bulanan. Kamu juga bisa konsultasi langsung dengan staf kami jika masih belum paham cara pakainya. Datang langsung atau hubungi kami untuk panduan lengkap!
+    - image: /img/payment4.jpeg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Kami percaya bahwa layanan digital yang lengkap bisa memudahkan semua orang. Karena itu, kami menyediakan berbagai metode pembayaran—mulai dari online banking, ATM, QRIS, hingga dompet digital. Konter kami juga menyediakan tempat nyaman buat nongkrong sambil nanya-nanya soal fitur terbaru dari aplikasi e-wallet, promo operator, atau tips digital lainnya. Yuk mampir, siapa tahu kamu nemu promo spesial juga!
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

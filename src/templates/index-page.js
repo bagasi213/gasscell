@@ -17,6 +17,7 @@ export const IndexPageTemplate = ({
   mainpitch,
   description,
   intro,
+  
 }) => {
   const heroImage = getImage(image) || image;
 
