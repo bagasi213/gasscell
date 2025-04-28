@@ -41,7 +41,7 @@ const Footer = () => {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
+                        
                       </Link>
                     </li>
                     <li>
@@ -51,7 +51,7 @@ const Footer = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        Admin
+                        
                       </a>
                     </li>
                   </ul>
@@ -59,7 +59,7 @@ const Footer = () => {
               </div>
               <div className="column is-4">
                 <section>
-                  <ul className="menu-list">
+                  {/*<ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog">
                         Latest Stories
@@ -70,7 +70,7 @@ const Footer = () => {
                         Contact
                       </Link>
                     </li>
-                  </ul>
+                  </ul>*/}
                 </section>
               </div>
               <div className="column is-4 social">
