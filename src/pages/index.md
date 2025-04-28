@@ -8,7 +8,7 @@ mainpitch:
   title: 🏪 SELAMAT DATANG DI KONTER GASSCELL
   description: >
     Terima kasih sudah mampir ke tempat kami 🙏
-    Kami hadir untuk memenuhi segala kebutuhan komunikasi dan perlengkapan ponsel Anda — dengan pelayanan yang cepat, ramah, dan harga yang bersahabat.
+    Kami hadir untuk memenuhi segala kebutuhan komunikasi kamu dan perlengkapan ponsel Anda — dengan pelayanan yang cepat, ramah, dan harga yang bersahabat.
 description: >-
  
 intro:
